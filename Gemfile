@@ -67,6 +67,6 @@ end
 
 gem "clearance", "~> 2.11"
 
-gem "commonmarker", "~> 2.7"
+gem "commonmarker", "~> 2.8"
 
 gem "rspec-rails", "~> 8.0.4", groups: [:development, :test]
