@@ -65,7 +65,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "clearance", "~> 2.11"
+gem "clearance", "~> 2.12"
 
 gem "commonmarker", "~> 2.7"
 
